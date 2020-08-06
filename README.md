@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-<!--
-**tanay13/tanay13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am [Tanay Raj](https://tanay13.github.io)
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/tanay-raj-4761121a1/">
+  <img align="left" alt="Tanay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+ <p>
+
+
+</h4>
+</div>
+
+<br />
+
+
+<br />
+
+<div><p>My profile overview: </p></div>
+
+![Tanay's github stats](https://github-readme-stats.vercel.app/api?username=tanay13&show_icons=true)
+<br />
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanay13.tanay13)
