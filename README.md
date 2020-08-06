@@ -8,11 +8,15 @@
 <a href="https://www.linkedin.com/in/tanay-raj-4761121a1/">
   <img align="left" alt="Tanay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
+<br/>
+<br/>
 <div>
  <p>
-
+ I am 18 years old and a computer science undergraduate . Right now i am into backend development , but also trying to explore more domains . 
+ </p>
+ <p>
+I always try to collaborate with different people for some project
+ </p>
 
 </h4>
 </div>
@@ -28,8 +32,5 @@
 <br />
 <br />
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanay13.tanay13)
