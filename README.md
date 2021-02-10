@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/tanay-raj-4761121a1/">
   <img align="left" alt="Tanay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.codechef.com/users/tanay_raj1312">
-  <img align="right" alt="Tanay's Codechef" width="22px" src="https://cdn.bootcdn.net/ajax/libs/simple-icons/3.12.1/codechef.svg" />
-</a>
 <br/>
 <br/>
 <div>
