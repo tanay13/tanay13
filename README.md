@@ -12,10 +12,10 @@
 <br/>
 <div>
  <p>
- I am 18 years old and a computer science undergraduate . Right now i am into backend development , but also trying to explore more domains . 
+ I am 18 years old and a computer science undergraduate .I am very much interested in backend development and i love contibuting to various open source project . 
  </p>
  <p>
-I always try to collaborate with different people for some project
+ I am always open to work on any project .
  </p>
 
 </h4>
