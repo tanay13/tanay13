@@ -18,7 +18,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
-<p align = "center">
+<p align = "center" margin="10px">
  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Raj76Tanay) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/tanay-raj-4761121a1/)
@@ -35,6 +35,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=tanay13&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=tanay13&">
 </p>
+
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
@@ -56,3 +58,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 
 </div>  
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanay13.tanay13)
