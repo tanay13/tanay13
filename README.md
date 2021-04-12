@@ -6,8 +6,7 @@
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I love contributing to exciting projects .<br></p><br/>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+<summary><h2>What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React and Typescript.
@@ -15,8 +14,7 @@
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Javascript, Backend Development, Any tech-related stuff.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+<summary><h2>To connect with me</h2></summary>
 
 <p align = "center" margin="10px">
  
@@ -26,8 +24,7 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
+<summary><h2> My Github Stats</h2> </summary>
 
 <br>
 
@@ -38,8 +35,7 @@
 
 
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+<summary><h2>My Tools</h2></summary>
 
 <br>
 
