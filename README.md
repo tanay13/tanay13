@@ -10,7 +10,7 @@
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React and exploring Blockchain.
-- 👯 I’m looking to collaborate on projects as a bacakend developer.
+- 👯 I’m looking to collaborate on projects as a backend developer.
 - 🤔 I’m looking for help with BlockChain.
 - 💬 Ask me about Javascript, Backend Development, Any tech-related stuff.
 
