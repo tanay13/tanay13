@@ -9,9 +9,9 @@
 <summary><h2>What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and exploring Blockchain.
+- 🌱 I’m currently learning React and exploring Golang.
 - 👯 I’m looking to collaborate on projects as a backend developer.
-- 🤔 I’m looking for help with BlockChain.
+- 🤔 I’m looking for help with Golang.
 - 💬 Ask me about Javascript, Backend Development, Any tech-related stuff.
 
 <summary><h2>To connect with me</h2></summary>
