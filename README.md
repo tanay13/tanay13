@@ -33,7 +33,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=tanay13&">
 </p>
 
-<summary><h2> My Github Tropies</h2> </summary>
+<summary><h2> My Github Trophies</h2> </summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanay13&theme=flat&row=1&col=6)](https://github.com/ryo-ma/github-profile-trophy)
 
