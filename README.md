@@ -4,15 +4,7 @@
  src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I love contributing to exciting projects .<br></p><br/>
-
-<summary><h2>What I currently do</h2></summary>
-
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and exploring Golang.
-- 👯 I’m looking to collaborate on projects as a backend developer.
-- 🤔 I’m looking for help with Golang.
-- 💬 Ask me about Javascript, Backend Development, Any tech-related stuff.
+<p align="center">I'm a software developer.<br/>I specialize backend engineering.<br> I love contributing to exciting projects .<br></p><br/>
 
 <summary><h2>To connect with me</h2></summary>
 
