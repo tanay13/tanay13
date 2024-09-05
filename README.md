@@ -1,9 +1,5 @@
 <h1><p align="center">Hello, I'm Tanay Raj! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center" ><img 
- src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif" width="40%"/></p>
-
-
 <p align="center">I'm a software developer.<br/>I specialize backend engineering.<br> I love contributing to exciting projects .<br></p><br/>
 
 <summary><h2>To connect with me</h2></summary>
