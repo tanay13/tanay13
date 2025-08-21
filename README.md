@@ -1,6 +1,12 @@
 <h1><p align="center">Hello, I'm Tanay Raj! </h1></p>
 
-<p align="center">I'm a software developer.<br/>I specialize backend engineering.<br> I love contributing to exciting projects .<br></p><br/>
+<p align="center">
+  I am a <b>computer scientist</b> at heart, a <b>developer</b> by practice.  
+  <b>Systems</b>, <b>math</b>, and <b>abstractions</b> guide me more than frameworks do.
+</p>
+
+
+
 
 <summary><h2>To connect with me</h2></summary>
 
