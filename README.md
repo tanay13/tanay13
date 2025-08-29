@@ -21,7 +21,7 @@
 
 </p>
 
-<summary><h2> My Github Stats</h2> </summary>
+  <summary><h2>🛠️ Tools & Technologies</h2></summary>
 
 <br>
 
